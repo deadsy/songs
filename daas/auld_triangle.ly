@@ -93,7 +93,7 @@ pianoPart = \new PianoStaff \with {
     \line{ " " }
     \line{ In the women's prison,  }
     \line{ There are seventy women.  }
-    \line{ And it wish it was with them that I did dwell.  }
+    \line{ And I wish it was with them that I did dwell.  }
     \line{ Then that auld triangle could go jingle bloody jangle,  }
     \line{ All along the banks of the Royal Canal.  }
     \line{ " " }
